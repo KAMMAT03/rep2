@@ -5,6 +5,7 @@ public class w3_20Z_Git {
         int b = 5;
         wypiszInt("Liczba b",b);
         int c = 15; //nowa instrukcja
+        int d = 0; //nowa instrukcja <- modMain
         int suma = a + b;
         wypiszInt("Suma liczba a i b",suma);
     }
