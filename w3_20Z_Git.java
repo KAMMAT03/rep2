@@ -4,6 +4,7 @@ public class w3_20Z_Git {
         wypiszInt("Liczba a",a);
         int b = 5;
         wypiszInt("Liczba b",b);
+        int c = 15; //nowa instrukcja
         int suma = a + b;
         wypiszInt("Suma liczba a i b",suma);
     }
